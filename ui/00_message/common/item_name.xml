@@ -53,9 +53,11 @@
   </item>
   <item id="47">
     <original>蝶印の小鍵</original>
+    <translation>Butterfly Printed Small Key</translation>
   </item>
   <item id="48">
     <original>オーク将の錆び鍵</original>
+    <translation>Orc General's Rusted Key</translation>
   </item>
   <item id="49">
     <original>ドリード城主の鍵</original>
@@ -3802,12 +3804,14 @@
   </item>
   <item id="1029">
     <original>錬金研究棟の鍵</original>
+    <translation>Key to Alchemy Research Building</translation>
   </item>
   <item id="1030">
     <original>ドリード礼拝堂の鍵</original>
   </item>
   <item id="1031">
     <original>水流制御室の鍵</original>
+    <translation>Key to Water Control Room</translation>
   </item>
   <item id="1032">
     <original>ディナンの古鍵</original>
@@ -3818,6 +3822,7 @@
   </item>
   <item id="1035">
     <original>特別研究区の金鍵</original>
+    <translation>Golden Key to Special Research District</translation>
   </item>
   <item id="1038">
     <original>ガルドノックの大門鍵</original>
@@ -3825,9 +3830,11 @@
   </item>
   <item id="1044">
     <original>完全封鎖扉用鍵</original>
+    <translation>Key for Full Blockade Door</translation>
   </item>
   <item id="1049">
     <original>命の器</original>
+    <translation>Vessel of Life</translation>
   </item>
   <item id="1050">
     <original>キースヒルトの命杯</original>
@@ -3843,6 +3850,7 @@
   </item>
   <item id="1053">
     <original>重量軽減</original>
+    <translation>Weight Reduction</translation>
   </item>
   <item id="1054">
     <original>低LV時獲得XPアップ</original>
@@ -3862,6 +3870,7 @@
   </item>
   <item id="1359">
     <original>昇格試験Ｂ</original>
+    <translation>Promotion Test B</translation>
   </item>
   <item id="1674">
     <original>ブロンズソード</original>
@@ -5993,6 +6002,7 @@
   </item>
   <item id="2231">
     <original>タロンオブガルーダ</original>
+    <translation>Talons of Garuda</translation>
   </item>
   <item id="2232">
     <original>アミレックガントレット</original>
@@ -6004,6 +6014,7 @@
   </item>
   <item id="2234">
     <original>ヘルジェイルアーム</original>
+    <translation>Hallgeir Arms</translation>
   </item>
   <item id="2235">
     <original>魔獣のガントレット</original>
@@ -6319,6 +6330,7 @@
   </item>
   <item id="2316">
     <original>ランドカンカー</original>
+    <translation>Land Kankar</translation>
   </item>
   <item id="2317">
     <original>コンポジットスリーブ</original>
@@ -36569,7 +36581,7 @@
   </item>
   <item id="13792">
     <original>お風呂・極上の湯</original>
-    <translation>Bath - 極上の湯</translation>
+    <translation>Bath - High Quality Hot Water</translation>
   </item>
   <item id="13793">
     <original>スタールビーリング</original>

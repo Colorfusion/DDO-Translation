@@ -127,6 +127,7 @@
   <message>
     <key>TUTORIAL_71</key>
     <original>ウォリアーの戦術的役割</original>
+    <translation>Tactical role of the Warrior</translation>
   </message>
   <message>
     <key>TUTORIAL_72</key>
@@ -161,6 +162,7 @@
   <message>
     <key>TUTORIAL_78</key>
     <original>ウォリアーの戦法：基本</original>
+    <translation>Basic Tactics: Warrior</translation>	
   </message>
   <message>
     <key>TUTORIAL_79</key>
@@ -185,6 +187,7 @@
   <message>
     <key>TUTORIAL_87</key>
     <original>装備品</original>
+    <translation>Equipments</translation>
   </message>
   <message>
     <key>TUTORIAL_88</key>
@@ -339,6 +342,7 @@
   <message>
     <key>TUTORIAL_154</key>
     <original>レイドボス戦</original>
+    <translation>Raid boss battles</translation>
   </message>
   <message>
     <key>TUTORIAL_155</key>
@@ -377,6 +381,7 @@
   <message>
     <key>TUTORIAL_165</key>
     <original>レスタニアの状況</original>
+    <translation>Lestania's situation</translation>
   </message>
   <message>
     <key>TUTORIAL_166</key>
@@ -396,10 +401,12 @@
   <message>
     <key>TUTORIAL_169</key>
     <original>アルケミストの戦法：基本</original>
+    <translation>Basic Tactics： Alchemist</translation>
   </message>
   <message>
     <key>TUTORIAL_170</key>
     <original>アルケミストの戦術的役割</original>
+    <translation>Tactical role of the Alchemist</translation>
   </message>
   <message>
     <key>TUTORIAL_172</key>
@@ -481,10 +488,12 @@
   <message>
     <key>TUTORIAL_216</key>
     <original>ウォリアーの戦法：追記</original>
+    <translation>Advanced Tactics: Warrior</translation>
   </message>
   <message>
     <key>TUTORIAL_218</key>
     <original>アルケミストの戦法：追記</original>
+    <translation>Advanced Tactics: Alchemist</translation>
   </message>
   <message>
     <key>TUTORIAL_219</key>
@@ -523,10 +532,12 @@
   <message>
     <key>TUTORIAL_229</key>
     <original>ロストポーンの救出</original>
+    <translation>Rescuing Lost Pawns</translation>
   </message>
   <message>
     <key>TUTORIAL_230</key>
     <original>便利なフリーマーカー</original>
+    <translation>The useful Free Marker</translation>
   </message>
   <message>
     <key>TUTORIAL_231</key>
@@ -555,6 +566,7 @@
   <message>
     <key>TUTORIAL_236</key>
     <original>エリアマスターの支援品</original>
+    <translation>Area Master's support goods</translation>
   </message>
   <message>
     <key>TUTORIAL_237</key>
@@ -584,6 +596,7 @@
   <message>
     <key>TUTORIAL_242</key>
     <original>未知なるジョブへの挑戦</original>
+    <translation>Challenges of the unknown jobs</translation>
   </message>
   <message>
     <key>TUTORIAL_243</key>
@@ -608,6 +621,7 @@
   <message>
     <key>TUTORIAL_250</key>
     <original>メインクエストのボス戦時の注意点</original>
+    <translation>Important points during main quest boss battles</translation>
   </message>
   <message>
     <key>TUTORIAL_252</key>
@@ -628,6 +642,7 @@
   <message>
     <key>TUTORIAL_258</key>
     <original>覚者の自室</original>
+    <translation>Arisen's Room</translation>
   </message>
   <message>
     <key>TUTORIAL_261</key>
@@ -644,6 +659,7 @@
   <message>
     <key>TUTORIAL_267</key>
     <original>汚染植物について</original>
+    <translation>About polluted plants</translation>
   </message>
   <message>
     <key>TUTORIAL_275</key>
@@ -681,17 +697,21 @@
   <message>
     <key>TUTORIAL_303</key>
     <original>家具について</original>
+    <translation>About furnitures</translation>
   </message>
   <message>
     <key>TUTORIAL_304</key>
     <original>エリアランクキャップ解放</original>
+    <translation>Unlocking Area Rank Cap</translation>
   </message>
   <message>
     <key>TUTORIAL_306</key>
     <original>大型敵との戦い：ブレイクアイコン</original>
+    <translation>Battle with large-sized enemies: Break Icon</translation>
   </message>
   <message>
     <key>TUTORIAL_307</key>
     <original>大型敵との戦い：特殊状態</original>
+    <translation>Battle with large-sized enemies: Special Statuses</translation>
   </message>
 </resource>

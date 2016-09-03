@@ -1,27 +1,40 @@
 ﻿<item_data>
   <item id="34">
     <original>使用者の体力を回復する</original>
+    <translation>Recover the user's health.</translation>
   </item>
   <item id="35">
     <original>使用者の体力を回復する</original>
+    <translation>Recover the user's health.</translation>
   </item>
   <item id="36">
     <original>使用者のスタミナを回復する</original>
+    <translation>Recover the user's stamina.</translation>
   </item>
   <item id="37">
     <original>使用者の状態異常を解消する</original>
+    <translation>Remove the specified status 
+effect from the user.</translation>
   </item>
   <item id="38">
     <original>使用者の状態異常を解消する</original>
+    <translation>Remove the specified status 
+effect from the user.</translation>
   </item>
   <item id="39">
     <original>使用者の状態異常を解消する</original>
+    <translation>Remove the specified status 
+effect from the user.</translation>
   </item>
   <item id="40">
     <original>使用者の状態異常を解消する</original>
+    <translation>Remove the specified status 
+effect from the user.</translation>
   </item>
   <item id="41">
     <original>使用者の状態異常を解消する</original>
+    <translation>Remove the specified status 
+effect from the user.</translation>
   </item>
   <item id="42">
     <original>使用者にステータス向上効果を付与する</original>
@@ -69,12 +82,14 @@ specified status effect.</translation>
   </item>
   <item id="54">
     <original>使用者の体力を回復する</original>
+    <translation>Recover the user's health.</translation>
   </item>
   <item id="55">
     <original>装備しているランタンに着火し、一定時間点灯させる</original>
   </item>
   <item id="56">
     <original>使用者のスタミナを回復する</original>
+    <translation>Recover the user's stamina.</translation>
   </item>
   <item id="57">
     <original>鉱脈から素材アイテムを採掘するために必要
@@ -90,15 +105,19 @@ specified status effect.</translation>
   </item>
   <item id="61">
     <original>使用者のスタミナを回復する</original>
+    <translation>Recover the user's stamina.</translation>
   </item>
   <item id="62">
     <original>初心者向けの青銅製の剣</original>
+    <translation>A sword made of bronze that
+is recommended for beginners.</translation>
   </item>
   <item id="63">
     <original>軽量素材で造られた剣</original>
   </item>
   <item id="64">
     <original>一般的な打撃武器</original>
+    <translation>A common blunt weapon.</translation>
   </item>
   <item id="65">
     <original>湾曲した刀身を持つ剣</original>
@@ -279,6 +298,7 @@ specified status effect.</translation>
   </item>
   <item id="120">
     <original>バトルソード</original>
+    <translation>Battle Sword</translation>
   </item>
   <item id="121">
     <original>クレイモア</original>
@@ -35516,11 +35536,17 @@ when equipped.</translation>
   </item>
   <item id="14254">
     <original>1周年を祝うルームランプ</original>
+    <translation>Room Lamp for the
+1 year anniversary celebration.</translation>
   </item>
   <item id="14255">
     <original>1周年を祝う豪華なケーキ</original>
+    <translation>Extravagant Cake for the
+1 year anniversary celebration.</translation>
   </item>
   <item id="14256">
     <original>1周年を祝う飾り</original>
+    <translation>Decoration for the
+1 year anniversary celebration.</translation>
   </item>
 </item_data>
